@@ -1,0 +1,10 @@
+.Cursor {
+    transform: scale(2.5);
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    position: fixed;
+    border-radius: 50%;
+    pointer-events: none;
+    mix-blend-mode: overlay;
+}
